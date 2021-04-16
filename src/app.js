@@ -1,4 +1,2 @@
-console.log('focus')
-console.log(process.env.NODE_ENV)
-console.log('NODE_ENV')
+console.log('hello focus')
 
